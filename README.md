@@ -16,13 +16,7 @@ I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various projec
 ### 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 <!--SPRX77-->
-Here's the updated tech stack with all logos styled similarly to the Matplotlib example (white background and black/dark text):
 
----
-
-Here's the updated tech stack with all logos styled similarly to the Matplotlib example (white background and black/dark text):
-
----
 # 💻 Tech Stack
 ### **Programming Languages**
 ![HTML5](https://img.shields.io/badge/HTML5-%23ffffff?style=flat&logo=html5&logoColor=black)&nbsp;
@@ -102,18 +96,14 @@ Here's the updated tech stack with all logos styled similarly to the Matplotlib 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%23ffffff?style=flat&logo=anaconda&logoColor=black)&nbsp;
 
 # 🌐 My References 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23ffffff?style=flat&logo=CodeChef&logoColor=black)](https://www.codechef.com/users/SakshiBiranje)&nbsp;
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23ffffff?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/sakshibiranje711)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23ffffff?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sakshibiranje/)&nbsp;
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%23ffffff?style=flat&logo=HackerEarth&logoColor=black)](https://www.https://www.hackerearth.com/@sakshi3150)&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23ffffff?style=flat&logo=stack-overflow&logoColor=black)](https://https://stackoverflow.com/users/25054616/sakshi-santosh-biranje)&nbsp;
-![Wikipedia](https://img.shields.io/badge/Wikipedia-%23ffffff?style=flat&logo=wikipedia&logoColor=black)&nbsp;
-![Udemy](https://img.shields.io/badge/Udemy-%23ffffff?style=flat&logo=Udemy&logoColor=black)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23ffffff?style=flat&logo=CodeChef&logoColor=black)](https://www.codechef.com/users/sudarshan2171)&nbsp;
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23ffffff?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23ffffff?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sudarshanjadhav2/)&nbsp;
+
 
 # 👩‍💼 My Social Media 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23ffffff?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sakshi-biranje/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23ffffff?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/sakshi_biranje_1)&nbsp;
-[![X](https://img.shields.io/badge/X-%23ffffff?style=flat&logo=X&logoColor=black)](https://twitter.com/SakshiBiranje)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23ffffff?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sudarshan-santaji-jadhav/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23ffffff?style=flat&logo=Instagram&logoColor=black)](https://www.instagram.com/sudarshan_jadhav_2)&nbsp;
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHANJADHAV2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
