@@ -114,4 +114,55 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SakshiBiranje&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SUDARSHANJADHAV2&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/><br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300" alt="Connect Animation">
+</div>
+
+<div align="center">
+  <a href="https://x.com/SUDARSHAN2171" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudarshan-santaji-jadhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61557499583634" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/sudarshan.jadhav.2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:officialsudarshanjadhav2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/SUDARSHAN2171" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/SUDARSHANJADHAV2" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/sudarshan2171" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUDARSHANJADHAV2&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35346.gif" width="200" alt="Coding GIF" />
+</div>
+
+<div align="center">
+  <h3>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</h3>
+</div>
