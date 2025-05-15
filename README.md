@@ -47,8 +47,8 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 ### **DATABASE**
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### **DEVOPS AND CLOUD**
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)&nbsp;
@@ -100,10 +100,11 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
 
-# 🌐 My References 
+## 🌐 My References 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)&nbsp;
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sudarshanjadhav2/)&nbsp;
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
