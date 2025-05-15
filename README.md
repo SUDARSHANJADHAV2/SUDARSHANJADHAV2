@@ -21,9 +21,11 @@ I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various projec
 ### 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 <!--SPRX77-->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
+
 # 💻 Tech Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white)&nbsp;
@@ -70,8 +72,6 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000?style=flat&logo=three.js&logoColor=white)&nbsp;
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822?style=flat&logo=web3.js&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white)&nbsp;
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
