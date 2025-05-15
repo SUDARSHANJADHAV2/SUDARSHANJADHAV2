@@ -65,9 +65,15 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000?style=flat&logo=three.js&logoColor=white)&nbsp;
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822?style=flat&logo=web3.js&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white)&nbsp;
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
+
+---
+
 # 🌐 My References 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)&nbsp;
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
