@@ -1,4 +1,7 @@
 ![Alt text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 # 👋 Hi, I'm SUDARSHAN!
 <!--If anyone trys to copy this code it will turn out to be very bad for you-->
 ### 👩‍💼 **Myself :**<br/>
@@ -16,7 +19,9 @@ I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various projec
 ### 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 <!--SPRX77-->
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 # 💻 Tech Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white)&nbsp;
@@ -63,7 +68,9 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000?style=flat&logo=three.js&logoColor=white)&nbsp;
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822?style=flat&logo=web3.js&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white)&nbsp;
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 # 🌐 My References 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)&nbsp;
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
@@ -126,7 +133,9 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
     </tr>
   </table>
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHANJADHAV2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
@@ -152,7 +161,9 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   <img align="center" alt="github-snake" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/tech-fear?username=SakshiBiranje"/> -->
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 # 🦾 Leetcode:
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUDARSHANJADHAV2?theme=dark&font=Rubik&ext=heatmap" />  
@@ -170,7 +181,9 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=SUDARSHANJADHAV2&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/><br/>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 ## 🤝 Connect With Me
 
 <div align="center">
