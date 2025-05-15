@@ -76,7 +76,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
-### **TOOLS AND IDE**
+### **TOOLS AND IDE's**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
@@ -91,15 +91,6 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
-
-## 🌐 My References 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sudarshanjadhav2/)&nbsp;
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
