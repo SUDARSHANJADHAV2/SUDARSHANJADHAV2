@@ -26,11 +26,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
 
-# 💻 Tech Stack
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
+## 💻 Tech Stack
 
 ### **CODING LANGUAGES**
 ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -167,7 +163,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHANJADHAV2&theme=dark&hide_border=false)<br/><br/>
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHANJADHAV2&bg_color=000000&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/><br/>
@@ -181,7 +177,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
 
-# 🦾 Leetcode:
+## 🦾 Leetcode
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUDARSHANJADHAV2?theme=dark&font=Rubik&ext=heatmap" />  
 </p>
