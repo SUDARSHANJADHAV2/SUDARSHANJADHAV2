@@ -69,9 +69,70 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sudarshanjadhav2/)&nbsp;
 
-# 👩‍💼 My Social Media 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-santaji-jadhav/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sudarshan_jadhav_2)&nbsp;
+## 💡 My Development Workflow
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="550" alt="Development Workflow">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/task.png" width="80" alt="Plan"><br>
+        <b>1. Plan</b><br>
+        Define features, tasks, and goals using tools like Trello or Notion.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/code-fork.png" width="80" alt="Git"><br>
+        <b>2. Version Control</b><br>
+        Use Git with feature branches and proper commit messages.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/maintenance.png" width="80" alt="Setup"><br>
+        <b>3. Environment</b><br>
+        Use Docker or virtual environments for consistent setup.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/source-code.png" width="80" alt="Code"><br>
+        <b>4. Code</b><br>
+        Follow clean code principles, best practices, and documentation.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/test-passed.png" width="80" alt="Test"><br>
+        <b>5. Test</b><br>
+        Write unit & integration tests using tools like pytest or PHPUnit.
+      </td>
+    </tr>
+    <tr>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/upload-to-cloud.png" width="80" alt="Commit"><br>
+        <b>6. Commit & Push</b><br>
+        Commit with meaningful messages and push to a remote branch.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/settings.png" width="80" alt="CI"><br>
+        <b>7. Continuous Integration</b><br>
+        Use GitHub Actions to automate testing and builds.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/code-review.png" width="80" alt="Review"><br>
+        <b>8. Code Review</b><br>
+        Create pull requests and review code for quality and bugs.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/deployment.png" width="80" alt="Deploy"><br>
+        <b>9. Deploy</b><br>
+        Deploy to staging and then production using CI/CD pipelines.
+      </td>
+      <td width="20%" align="center">
+        <img src="https://img.icons8.com/clouds/100/000000/computer-support.png" width="80" alt="Monitor"><br>
+        <b>10. Monitor</b><br>
+        Track performance, logs, and fix issues post-deployment.
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 # 📊 GitHub Stats:
