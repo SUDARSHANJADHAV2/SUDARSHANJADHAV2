@@ -101,9 +101,9 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 </div>
 
 ## 🌐 My References 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)&nbsp;
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sudarshanjadhav2/)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sudarshanjadhav2/)&nbsp;
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
@@ -192,8 +192,10 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" alt="LeetCode 100 Days Badge">
   </a>
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" alt="LeetCode 200 Days Badge">
+  </a>
 </p>
-
 
 [![](https://visitcount.itsvg.in/api?id=SUDARSHANJADHAV2&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/><br/>
