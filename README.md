@@ -190,6 +190,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -226,7 +227,9 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SUDARSHANJADHAV2&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
