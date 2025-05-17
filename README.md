@@ -56,15 +56,7 @@ Whether it's a code review, a hackathon, or brainstorming a new idea — feel fr
 
 ### 🌟 **Personal Note**
 > _"I don’t just want to use technology — I want to **understand** it, **build** it, and **improve** lives through it."_  
-> — Sudarshan
-
 ---
-
-
-
----
-
-> _“Stay curious, keep building, and never stop learning.”_ 🚀
 
 
 <div align="center">
@@ -286,3 +278,9 @@ Whether it's a code review, a hackathon, or brainstorming a new idea — feel fr
 <div align="center">
   <h3>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</h3>
 </div>
+
+
+
+---
+
+> _“Stay curious, keep building, and never stop learning.”_ 🚀
