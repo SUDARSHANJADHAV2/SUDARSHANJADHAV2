@@ -3,24 +3,42 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
+# 👋 Hi there, I'm **Sudarshan**!
 
-# 👋 Hi, I'm SUDARSHAN!
-<!--If anyone trys to copy this code it will turn out to be very bad for you-->
-### 👩‍💼 **Myself :**<br/>
-A.I.M.L Enthusiast sharing about my journey and learnings in Tech.<br/><br/>
-<!--SPRX77-->
-### 👩🏻‍💻 **Education :**<br>
-Studing Computer Engineering in Artificial-Intelligence at D.K.T.E. Textile & Engineering College , Ichalkaranji.<br/><br/>
-<!--SPRX77-->
-### 🧠 **About Me :**<br>
-Curious to learn new tech and do project.<br/><br/>
-<!--SPRX77-->
-### 👫 **Project Partner :**<br>
-I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various project and studies.<br/><br/>
-<!--SPRX77-->
-### 🗣️ **Ask Me About :**<br/>
-C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
-<!--SPRX77-->
+<!-- Note: This README is crafted with originality—be inspired, not a copycat! -->
+
+### 👨‍💻 **About Me**
+I'm an enthusiastic learner deeply passionate about Artificial Intelligence and Machine Learning. I love exploring emerging technologies, building impactful projects, and sharing my tech journey with the world.
+
+### 🎓 **Education**
+Currently pursuing a degree in **Computer Engineering with a specialization in Artificial Intelligence** at  
+**D.K.T.E. Society’s Textile & Engineering Institute, Ichalkaranji**.
+
+### 💡 **What Drives Me**
+- A strong curiosity to learn and adapt to new technologies.
+- Hands-on problem-solving through real-world projects.
+- Collaborating with like-minded peers to create innovative solutions.
+
+### 🤝 **Project Collaboration**
+I actively work with [**Sakshi Biranje**](https://github.com/SakshiBiranje) on various tech projects and academic research. Our teamwork helps us learn faster and build better solutions together.
+
+### 🛠️ **Tech Stack & Interests**
+- **Languages:** C, C++, Java, Python  
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
+- **Web Development:** HTML, CSS, JavaScript (Frontend focused)  
+- **Other Interests:** Git & GitHub, Open Source, ML basics
+
+### 💬 **Ask Me About**
+If you need help with:
+- Programming concepts in C/C++/Java/Python
+- OOP, DSA, or logic building
+- Frontend web development  
+Feel free to reach out or open an issue!
+
+---
+
+> _“Stay curious, keep building, and never stop learning.”_ 🚀
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
