@@ -196,9 +196,7 @@ Whether it's a code review, a hackathon, or brainstorming a new idea — feel fr
 
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHANJADHAV2&bg_color=000000&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/><br/>
 
-<div align="center">
-  <img align="center" alt="github-snake" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
-</div>
+
 <br/><br/>
 
 <div align="center">
