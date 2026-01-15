@@ -205,7 +205,11 @@ Whether it's a code review, a hackathon, or brainstorming a new idea — feel fr
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
 </div>
 
+
 ## 🦾 Leetcode
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUDARSHANJADHAV2?theme=dark&font=Rubik&ext=heatmap" />  
+</p>
 <p align="center">
   <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" alt="LeetCode 50 Days Badge">
@@ -220,6 +224,7 @@ Whether it's a code review, a hackathon, or brainstorming a new idea — feel fr
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-360.gif" height="100" alt="LeetCode 360 Days Badge">
   </a>
 </p>
+
 [![](https://visitcount.itsvg.in/api?id=SUDARSHANJADHAV2&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/><br/>
 <div align="center">
