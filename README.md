@@ -221,6 +221,9 @@ Whether it's a code review, a hackathon, or brainstorming a new idea — feel fr
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" alt="LeetCode 200 Days Badge">
   </a>
   <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" alt="LeetCode 360 Days Badge">
+  </a>
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
     <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="100" alt="LeetCode 360 Days Badge">
   </a>
 </p>
