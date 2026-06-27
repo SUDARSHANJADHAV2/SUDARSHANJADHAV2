@@ -1,293 +1,257 @@
-![Alt text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudarshan%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Backend%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-# 👋 Hi, I'm Sudarshan!
-
-<!-- Note: This README is uniquely crafted. Be original, stay inspired, and keep building. -->
-
-### 💼 **Who Am I?**
-I’m an aspiring Artificial Intelligence & Machine Learning engineer with a deep interest in solving real-world problems using technology. I believe in continuous learning and actively share my journey, projects, and insights in tech. My mission is to grow as a well-rounded engineer capable of contributing to impactful innovations in the AI domain.
-
----
-
-### 🎓 **Education**
-Currently pursuing **B.Tech in Computer Engineering (Artificial Intelligence specialization)**  
-at **D.K.T.E. Society’s Textile & Engineering Institute**, Ichalkaranji.
-
-My coursework, hands-on projects, and collaborations have strengthened my foundation in both **theoretical AI concepts** and **practical software development**.
-
----
-
-### 🚀 **What I’m Passionate About**
-- Building and deploying intelligent systems using AI/ML
-- Learning through projects and peer collaboration
-- Sharing insights, challenges, and tech learnings
-- Exploring research papers and implementing novel ideas
-
----
-
-### 🤝 **Collaboration**
-I regularly collaborate with [**Sakshi Biranje**](https://github.com/SakshiBiranje) on innovative projects and academic work. Together, we aim to turn ideas into impactful software solutions and research prototypes.
-
----
-
-### 🗣️ **Let’s Connect**
-I'm always open to connecting with:
-- Fellow developers and students
-- Project collaborators
-- Open source contributors
-- Tech communities
-
-Whether it's a code review, a hackathon, or brainstorming a new idea — feel free to reach out!
-
----
-
-### 💬 **Topics I Can Help With**
-- Programming Fundamentals (C, C++, Java, Python)
-- Data Structures & Algorithms
-- Object-Oriented Design
-- Frontend Web Development
-- Study resources, roadmap guidance, and project ideas
-
----
-
-### 🌟 **Personal Note**
-> _"I don’t just want to use technology — I want to **understand** it, **build** it, and **improve** lives through it."_  
----
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+intelligent+systems+from+scratch;Java+Backend+%7C+ML+%7C+DSA+Grinder;569%2B+LeetCode+problems+and+counting;Final+year+B.Tech+AI+%40+DKTE+Institute" alt="Typing SVG" />
+  </a>
 </div>
 
-## 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20SWE%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India%2C%20Maharashtra-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SUDARSHANJADHAV2&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
-### **CODING LANGUAGES**
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+---
+
+## ⚡ Who I Am
+
+```java
+public class Sudarshan {
+
+    String role       = "Final Year B.Tech AI @ DKTE Institute, Ichalkaranji";
+    String focus      = "Java Backend · Machine Learning · DSA";
+    String goal       = "Build systems that solve real problems — not demos";
+    String streak     = "365+ days on LeetCode. Discipline > motivation.";
+    boolean openTo    = true; // internships, full-time, collabs
+
+    String[] currentlyLearning = {
+        "Spring Boot microservices architecture",
+        "Advanced ML pipelines & model deployment",
+        "System design fundamentals"
+    };
+}
+```
+
+---
+
+## 🏗️ What I Actually Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI / ML Systems</h3>
+      <p>End-to-end ML pipelines — data ingestion, model training (TensorFlow, PyTorch, Scikit-learn), evaluation, and deployment via Flask / FastAPI. Focus on CNNs, NLP, and classification problems.</p>
+    </td>
+    <td width="50%">
+      <h3>☕ Java Backend</h3>
+      <p>REST APIs with Spring Boot, JPA/Hibernate, MySQL. Clean architecture, layered services, proper exception handling — not just "it works" code.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧩 DSA & Competitive Programming</h3>
+      <p>569+ LeetCode problems across arrays, trees, graphs, DP. 365-day streak badge. Regular participant on HackerRank and CodeChef.</p>
+    </td>
+    <td width="50%">
+      <h3>🔧 Tools & Automation</h3>
+      <p>Workflow automation with n8n, REST integrations, scripting in Python. Experience with Jupyter, Colab, and Streamlit for data-driven prototypes.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+> Only listing what I can defend in an interview.
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-### **DATABASE**
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
-### **DEVOPS AND CLOUD**
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![Github Pages](https://img.shields.io/badge/Github%20Pages-%23222222?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
-### **LIBRARIES AND FRAMEWORKS**
+### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![XGBoost](https://img.shields.io/badge/XGBoost-0072C6?style=for-the-badge&logo=boost&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5B73?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)&nbsp;
-![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
-
-### **TOOLS AND IDE's**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)&nbsp;
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![CURSOR AI](https://img.shields.io/badge/Cursor%20AI-5E5DF0?style=for-the-badge&logo=OpenAI&logoColor=white)&nbsp;
-![TRAE](https://img.shields.io/badge/Trae.ai-4B0082?style=for-the-badge&logo=brain&logoColor=white)&nbsp;
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+
+### Databases & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
-
-## 💡 My Development Workflow
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="550" alt="Development Workflow">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/task.png" width="80" alt="Plan"><br>
-        <b>1. Plan</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/code-fork.png" width="80" alt="Git"><br>
-        <b>2. Version Control</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/maintenance.png" width="80" alt="Setup"><br>
-        <b>3. Environment Setup</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/source-code.png" width="80" alt="Code"><br>
-        <b>4. Code</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/test-passed.png" width="80" alt="Test"><br>
-        <b>5. Test</b>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/upload-to-cloud.png" width="80" alt="Commit"><br>
-        <b>6. Commit & Push</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/settings.png" width="80" alt="CI"><br>
-        <b>7. Continuous Integration</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/code-review.png" width="80" alt="Review"><br>
-        <b>8. Code Review</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/deployment.png" width="80" alt="Deploy"><br>
-        <b>9. Deploy</b>
-      </td>
-      <td width="20%" align="center">
-        <img src="https://img.icons8.com/clouds/100/000000/computer-support.png" width="80" alt="Monitor"><br>
-        <b>10. Monitor</b>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHANJADHAV2&theme=dark&hide_border=false)<br/><br/>
-
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHANJADHAV2&bg_color=000000&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/><br/>
-
-<div align="center">
-  <img align="center" alt="github-snake" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
-</div>
-<br/><br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
-
-
-## 🦾 Leetcode
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SUDARSHANJADHAV2?theme=dark&font=Rubik&ext=heatmap" />  
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" alt="LeetCode 50 Days Badge">
-  </a>
-  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" alt="LeetCode 100 Days Badge">
-  </a>
-  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" alt="LeetCode 200 Days Badge">
-  </a>
-  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" alt="LeetCode 360 Days Badge">
-  </a>
-  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/" rel="nofollow">
-    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="100" alt="LeetCode 360 Days Badge">
-  </a>
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=SUDARSHANJADHAV2&icon=0&color=0)](https://visitcount.itsvg.in)
-<br/><br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300" alt="Connect Animation">
-</div>
-
-<div align="center">
-  <a href="https://x.com/SUDARSHAN2171" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudarshan-santaji-jadhav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61557499583634" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/sudarshan.jadhav.2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="mailto:officialsudarshanjadhav2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/SUDARSHAN2171" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.leetcode.com/SUDARSHANJADHAV2" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/sudarshan2171" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Tech Animation">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SUDARSHANJADHAV2&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35346.gif" width="200" alt="Coding GIF" />
-</div>
-
-<div align="center">
-  <h3>Thanks for visiting my profile! Let's connect and build something amazing together. 🚀</h3>
-</div>
-
-
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
 
 ---
 
-> _“Stay curious, keep building, and never stop learning.”_ 🚀
+## 🚀 Featured Projects
+
+> *Replace these with your actual projects — these are placeholders structured to show you how to present them.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/SUDARSHANJADHAV2">AI Disease Predictor</a></h3>
+      <p>End-to-end ML model for early-stage disease classification using medical imaging (CNN). Trained on 10k+ samples, deployed via Flask with a Streamlit UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/SUDARSHANJADHAV2">Spring Boot REST API</a></h3>
+      <p>Full CRUD REST API with Spring Boot, JPA, MySQL. Implements JWT auth, role-based access control, and clean layered architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/SUDARSHANJADHAV2">NLP Sentiment Analyzer</a></h3>
+      <p>Text classification pipeline using NLTK + Scikit-learn with TF-IDF vectorization. Trained on real-world product reviews with 88%+ accuracy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLTK-85C1E9?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔁 <a href="https://github.com/SUDARSHANJADHAV2">DSA Problem Archive</a></h3>
+      <p>Curated repository of 300+ solved problems organized by topic — Arrays, Trees, Graphs, DP, Sliding Window. Annotated with approach notes and complexity analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHANJADHAV2&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" width="49%" alt="Streak Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=SUDARSHANJADHAV2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHANJADHAV2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="40%" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHANJADHAV2&bg_color=0D1117&color=58A6FF&line=FF6B35&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img align="center" alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" height="500"/>
+</div>
+
+---
+
+## 🦾 LeetCode
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SUDARSHANJADHAV2?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="90" alt="50 Days Badge" title="50 Day Streak"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="90" alt="100 Days Badge" title="100 Day Streak"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="90" alt="200 Days Badge" title="200 Day Streak"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="90" alt="360 Days Badge" title="360 Day Streak"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="90" alt="365 Days Badge" title="365 Day Streak 🔥"/>
+  </a>
+</div>
+
+---
+
+## 🔄 How I Work
+
+<div align="center">
+
+| Phase | What I do |
+|:---:|:---|
+| **01 · Plan** | Break the problem down. Write pseudo-code or a system sketch before touching the editor. |
+| **02 · Version Control** | Branch from day one. Commit messages that actually describe the change. |
+| **03 · Build** | Clean code first, optimized second. Readable > clever. |
+| **04 · Test** | Unit tests before calling it done. Manual testing for edge cases. |
+| **05 · Review** | Read the diff as if someone else wrote it. Fix what I find. |
+| **06 · Ship** | Deploy, monitor, iterate. Done is better than perfect. |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  [![Twitter](https://img.shields.io/badge/Twitter-%40SUDARSHAN2171-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SUDARSHAN2171)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan%20Jadhav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-santaji-jadhav/)
+  [![Gmail](https://img.shields.io/badge/Gmail-officialsudarshanjadhav2-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialsudarshanjadhav2@gmail.com)
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-SUDARSHANJADHAV2-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/SUDARSHANJADHAV2)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-SUDARSHAN2171-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN2171)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-sudarshan2171-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sudarshan2171)
+  [![Instagram](https://img.shields.io/badge/Instagram-sudarshan.jadhav.2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudarshan.jadhav.2)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>"I don't just want to use technology — I want to understand it, build it, and improve lives through it."</i>
+  <br/><br/>
+  <b>If something I built helped you — leave a ⭐ on the repo. That's the only metric that matters here.</b>
+</div>
