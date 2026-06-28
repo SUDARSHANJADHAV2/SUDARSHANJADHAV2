@@ -38,7 +38,7 @@
 ║                                                                      ║
 ║      Sudarshan Santaji Jadhav                                        ║
 ║      AI × Backend Engineer  |  Published Researcher                  ║
-║      B.Tech CSE (AI) @ DKTE Ichalkaranji  |  Graduated Jun 2026     ║
+║      B.Tech CSE (AI) @ DKTE Ichalkaranji  |  Graduated Jun 2026      ║
 ║      Building systems that think, scale, and solve real problems.    ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -374,7 +374,7 @@
 ║   "I don't just want to use technology —                     ║
 ║    I want to understand it, build it,                        ║
 ║    and improve lives through it."                            ║
-║                                                   — Sudarshan║
+║                                                 — Sudarshan  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
