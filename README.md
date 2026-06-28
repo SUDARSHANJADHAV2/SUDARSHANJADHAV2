@@ -37,8 +37,8 @@
 ║    ❯ whoami                                                          ║
 ║                                                                      ║
 ║      Sudarshan Santaji Jadhav                                        ║
-║      AI × Backend Engineer  |  Published Researcher                 ║
-║      B.Tech CSE (AI) @ DKTE Ichalkaranji  |  Graduating Jun 2026    ║
+║      AI × Backend Engineer  |  Published Researcher                  ║
+║      B.Tech CSE (AI) @ DKTE Ichalkaranji  |  Graduating Jun 2026     ║
 ║      Building systems that think, scale, and solve real problems.    ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -267,7 +267,7 @@
 | **Feb 2025** | 💰 Shipped **Payroll Management System** |
 | **Sep 2025** | 🌿 Started **KrushiAI** — final year capstone |
 | **Feb 2026** | 📰 **Published** in IJARCCE — peer-reviewed research |
-| **Jun 2026** | 🎓 **Graduating** — ready for next chapter |
+| **Jun 2026** | 🎓 **Graduated** — ready for next chapter |
 
 </div>
 
@@ -327,7 +327,7 @@
 
 | Status | Focus |
 |:------:|-------|
-| 🟠 **Active** | CDAC CCAT Prep — targeting PGDAI / PGDAC @ ACTS Pune |
+| 🟠 **Active** | CDAC CCAT Prep — targeting PGDAI / PGDAC @ Sunbeam Pune |
 | 🟢 **Active** | Expanding KrushiAI with multilingual support |
 | 🟡 **Planned** | Deep dive into Distributed Systems & System Design |
 | ⚪ **Upcoming** | Open source contributions in Java / ML tooling |
@@ -374,7 +374,7 @@
 ║   "I don't just want to use technology —                     ║
 ║    I want to understand it, build it,                        ║
 ║    and improve lives through it."                            ║
-║                                                   — Sudarshan ║
+║                                                   — Sudarshan║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
