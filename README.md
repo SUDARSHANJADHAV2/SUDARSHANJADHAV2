@@ -276,7 +276,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUDARSHANJADHAV2&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SUDARSHANJADHAV2&theme=dark_lover&no-frame=true&no-bg=false&margin-w=6&column=4" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SUDARSHANJADHAV2&theme=dark_lover&no-frame=true&no-bg=false&margin-w=6&column=4&rank=B,C,SECRET" />
 </div>
 
 ---
