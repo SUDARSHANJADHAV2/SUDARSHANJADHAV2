@@ -273,16 +273,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUDARSHANJADHAV2&theme=dark_lover&no-frame=true&no-bg=false&margin-w=6&column=4" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUDARSHANJADHAV2&theme=dark_lover&no-frame=true&no-bg=false&margin-w=6&column=4&rank=B,C,SECRET" />
-</div>
-
----
 
 ## 🧩 LeetCode
 
