@@ -38,7 +38,7 @@
 ║                                                                      ║
 ║      Sudarshan Santaji Jadhav                                        ║
 ║      AI × Backend Engineer  |  Published Researcher                  ║
-║      B.Tech CSE (AI) @ DKTE Ichalkaranji  |  Graduating Jun 2026     ║
+║      B.Tech CSE (AI) @ DKTE Ichalkaranji  |  Graduated Jun 2026     ║
 ║      Building systems that think, scale, and solve real problems.    ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
