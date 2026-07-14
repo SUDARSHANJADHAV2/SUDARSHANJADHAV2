@@ -305,15 +305,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUDARSHANJADHAV2&show_icons=true&theme=dark&bg_color=000000&title_color=ffa500&icon_color=ff6600&text_color=ffffff&border_color=ffa50033&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHANJADHAV2&layout=compact&theme=dark&bg_color=000000&title_color=ffa500&text_color=ffffff&border_color=ffa50033&hide_border=false&langs_count=8" width="40%" />
-</div>
-
----
 
 ## 🚀 What I'm Building Now
 
