@@ -11,7 +11,7 @@
   <a href="mailto:officialsudarshanjadhav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://www.leetcode.com/SUDARSHANJADHAV2">
+  <a href="https://leetcode.com/u/SUDARSHANJADHAV2/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>&nbsp;
   <a href="https://github.com/SUDARSHANJADHAV2">
@@ -83,14 +83,14 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHANJADHAV2&theme=dark&hide_border=true&background=000000&ring=ffa500&fire=ff6600&currStreakLabel=ffa500&sideLabels=ffffff&currStreakNum=ffa500&sideNums=ffffff&dates=888888&stroke=ffa500" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=SUDARSHANJADHAV2&theme=dark&hide_border=true&background=000000&ring=ffa500&fire=ff6600&currStreakLabel=ffa500&sideLabels=ffffff&currStreakNum=ffa500&sideNums=ffffff&dates=888888&stroke=ffa500" width="70%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-> 🟠 **909-day current streak** · 6,681 total contributions · Building every single day since Jan 2024
+> 🟠 **Unbroken streak** · Building every single day since Jan 2024
 
 </div>
 
@@ -107,7 +107,7 @@
 ## 🌌 3D Contribution Skyline
 
 <div align="center">
-  <img align="center" alt="github-snake" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
+  <img align="center" alt="3D contribution skyline" src="./profile-3d-contrib/profile-night-green.svg" height="500" />
 </div>
 
 <br/>
@@ -130,7 +130,7 @@
 <tr>
   <td width="50%" valign="top">
 
-### 🌿 [KrushiAI](https://github.com/SUDARSHANJADHAV2)
+### 🌿 [KrushiAI](https://github.com/SUDARSHANJADHAV2/KrushiAI)
 **AI-Powered Smart Farming Assistant**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -260,10 +260,10 @@
 | **2019** | 🎒 S.S.C. @ Alphonsa School, Miraj — 78.2% |
 | **2022** | 📗 H.S.C. @ Parents Association Jr. College, Satara — 66.83% |
 | **2022** | 🎓 Started B.Tech CSE (AI) @ DKTE Ichalkaranji |
-| **Jan 2023** | 🟠 **First GitHub commit** — streak begins |
+| **Jan 2023** | 🟠 **First GitHub commit** |
+| **Jan 2024** | 🔥 **Unbroken contribution streak** starts |
 | **Jul 2024** | 🏛️ Elected **Secretary, AISA** — led 100+ peers |
 | **Jul 2024** | ⚡ Built **DPI Engine** — multithreaded Java packet inspector |
-| **Jan 2024** | 🔥 **Unbroken 909-day streak** starts |
 | **Feb 2025** | 💰 Shipped **Payroll Management System** |
 | **Sep 2025** | 🌿 Started **KrushiAI** — final year capstone |
 | **Feb 2026** | 📰 **Published** in IJARCCE — peer-reviewed research |
@@ -318,7 +318,7 @@
 
 | Status | Focus |
 |:------:|-------|
-| 🟠 **Active** | CDAC CCAT Prep — targeting PGDAI / PGDAC @ Sunbeam Pune |
+| 🟠 **Active** | HPC Systems Administration (HPCSA) @ C-DAC ACTS Pune |
 | 🟢 **Active** | Expanding KrushiAI with multilingual support |
 | 🟡 **Planned** | Deep dive into Distributed Systems & System Design |
 | ⚪ **Upcoming** | Open source contributions in Java / ML tooling |
