@@ -1,26 +1,33 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  schedule: # 03:00 JST == 18:00 UTC (keep your own cron here if you had a different time)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
+  generate-github-profile-3d-contrib:
+    runs-on: ubuntu-24.04 # pinned: ubuntu-latest moves to Ubuntu 26 on Oct 19, 2026
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push origin main
+          # `git commit` exits 1 when nothing changed, which was failing the run.
+          if git commit -m "generated"; then
+            git push
+          else
+            echo "No changes to commit."
+          fi
