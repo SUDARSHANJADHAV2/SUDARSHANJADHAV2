@@ -83,14 +83,14 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SUDARSHANJADHAV2&theme=dark&hide_border=true&background=000000&ring=ffa500&fire=ff6600&currStreakLabel=ffa500&sideLabels=ffffff&currStreakNum=ffa500&sideNums=ffffff&dates=888888&stroke=ffa500" width="70%" />
+  <img src="./cards/streak.svg" alt="GitHub streak" width="70%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-> 🟠 **Unbroken streak** · Building every single day since Jan 2024
+> 🟠 **1,000+ day longest streak** · Building almost every day since Jan 2024
 
 </div>
 
@@ -99,7 +99,14 @@
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHANJADHAV2&bg_color=000000&color=ffa500&line=ff6600&point=ffffff&area=true&area_color=ff660033&hide_border=true&custom_title=SUDARSHAN%27s%20Contribution%20Graph" width="95%" />
+  <img src="./cards/activity-graph.svg" alt="Contribution activity graph" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./cards/stats.svg" alt="GitHub stats" height="190" />&nbsp;
+  <img src="./cards/top-langs.svg" alt="Top languages" height="190" />
 </div>
 
 ---
@@ -114,6 +121,22 @@
 
 <div align="center">
   <sub>Java · JavaScript · HTML · Jupyter Notebook · Python — all stacked up, day by day.</sub>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./snake/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="./snake/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <sub>A snake eats my contribution graph — it regenerates itself every day.</sub>
 </div>
 
 ---
@@ -236,6 +259,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
+### ☁️ DevOps & HPC
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![Slurm](https://img.shields.io/badge/Slurm-0A66C2?style=for-the-badge)&nbsp;
+
 ### 🧰 IDEs & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
@@ -277,7 +306,7 @@
 ## 🧩 LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/SUDARSHANJADHAV2?theme=dark&font=Rubik&ext=heatmap&border=0" width="65%" />
+  <img src="./cards/leetcode.svg" alt="LeetCode stats" width="65%" />
 </div>
 
 <br/>
